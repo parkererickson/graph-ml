@@ -1,0 +1,26 @@
+site_name: Graph Machine Learning
+nav:
+    - 'Home': index.md 
+    - 'Awesome':
+        - 'Videos': videos.md
+        - 'Papers': papers.md
+        - 'Projects': projects.md
+    - 'Blog':
+        - 'IPO Predction Using GCNs': blog/ipoGCN.md
+
+theme:
+    name: material
+
+extra_css:
+    - stylesheets/extra.css
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/parkererickson
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/p_erickson30
+        - icon: fontawesome/brands/linkedin
+          link: https://linkedin.com/in/parker-erickson
+        - icon: fontawesome/brands/medium
+          link: https://medium.com/@parker.erickson
