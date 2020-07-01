@@ -1,5 +1,10 @@
 # Graph Machine Learning Videos
 
+## [Minneapolis Deep Learning Group - Special Guest Daniele Grattarola](https://drive.google.com/file/d/1ApL4WHndl_CFgsdoxmWxeJhlPVIWxtAs/view)
+July 1st, 2020
+
+Creator and maintainer of the Spektral graph machine learning framework Daniele Grattarola provides both an introduction to machine learning, and a live-coded demo to get up and running with a graph convolutional neural network for two different datasets, one classifying nodes in a graph, and one for classifying complete graphs.
+
 ## [Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E)
 Stanford University - Oct 3, 2019
 
