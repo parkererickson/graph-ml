@@ -1,6 +1,11 @@
 # Graph Machine Learning Videos
 
-## [Twin Cities Deep Learning Study Group - Special Guest Daniele Grattarola](https://drive.google.com/file/d/1ApL4WHndl_CFgsdoxmWxeJhlPVIWxtAs/view)
+## [Twin Cities Deep Learning Study Group - Special Guest Daniele Grattarola Part 2](https://drive.google.com/file/d/1DGwQyuKfk_4Qmykkfs4W0xAJWRPSEscZ/view)
+July 14th, 2020
+
+Creator and maintainer of the Spektral graph machine learning framework Daniele Grattarola continues his introduction to graph machine learning, classifying protiens with GIN layers. View the Google Colab notebook [here](https://colab.research.google.com/drive/1vY-GyiHrQ-1SjqR_ig9DNc1k7e4ZLOLu?usp=sharing)
+
+## [Twin Cities Deep Learning Study Group - Special Guest Daniele Grattarola Part 1](https://drive.google.com/file/d/1ApL4WHndl_CFgsdoxmWxeJhlPVIWxtAs/view)
 July 1st, 2020
 
 Creator and maintainer of the Spektral graph machine learning framework Daniele Grattarola provides both an introduction to machine learning, and a live-coded demo to get up and running with a graph convolutional neural network for two different datasets, one classifying nodes in a graph, and one for classifying complete graphs.
